@@ -1,0 +1,15 @@
+{
+  "name": "genpark-immersed-boundary-method-ibm-skill",
+  "version": "1.0.0",
+  "description": "Immersed Boundary Method (IBM) fluid-structure coupling engine utilizing regularized discrete Dirac delta kernels for Lagrangian force spreading.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "immersed-boundary",
+    "ibm",
+    "fluid-structure-interaction",
+    "dirac-delta"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
